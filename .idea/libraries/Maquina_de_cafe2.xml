@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maquina_de_cafe2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Maquina/Maquina_de_cafe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
